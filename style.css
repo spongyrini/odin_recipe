@@ -1,0 +1,14 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    font-size: large;
+}
+
+ul,
+ol,
+li {
+    letter-spacing: normal;
+}
